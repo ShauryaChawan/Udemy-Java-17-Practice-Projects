@@ -29,9 +29,11 @@
 
 [🎯 Project Link 🎯](./HeightConversion/dist/HeightConversion.jar)
 
-<img src="./imgs/hc_1.png" height="300">
-<img src="./imgs/hc_2.png" height="300">
-<img src="./imgs/hc_3.png" height="300">
+<div style="display:flex; justify-content: center; align-items: center; gap: 10px">
+	<img src="./imgs/hc_1.png" height="300">
+	<img src="./imgs/hc_2.png" height="300">
+	<img src="./imgs/hc_3.png" height="300">
+</div>
 
 ## Project 6: Random Number Generator
 ## Project 7: BMI Calculator Tool
