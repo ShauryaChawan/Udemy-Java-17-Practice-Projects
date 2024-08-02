@@ -27,7 +27,7 @@
 ## Project 4: Temperature Converter
 ## Project 5: Height Converter ✅
 
-[Project Link](./HeightConversion/dist/HeightConversion.jar)
+[🎯 Project Link 🎯](./HeightConversion/dist/HeightConversion.jar)
 
 <img src="./imgs/hc_1.png" height="300">
 <img src="./imgs/hc_2.png" height="300">
