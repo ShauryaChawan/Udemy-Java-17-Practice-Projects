@@ -27,9 +27,11 @@
 ## Project 4: Temperature Converter
 ## Project 5: Height Converter ✅
 
-![](./imgs/hc_1.png)
-![](./imgs/hc_2.png)
-![](./imgs/hc_3.png)
+[Project Link](./HeightConversion/dist/HeightConversion.jar)
+
+<img src="./imgs/hc_1.png" height="300">
+<img src="./imgs/hc_2.png" height="300">
+<img src="./imgs/hc_3.png" height="300">
 
 ## Project 6: Random Number Generator
 ## Project 7: BMI Calculator Tool
