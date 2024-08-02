@@ -30,9 +30,9 @@
 [🎯 Project Link 🎯](./HeightConversion/dist/HeightConversion.jar)
 
 <div style="display:flex; justify-content: center; align-items: center; gap: 10px">
-	<img src="./imgs/hc_1.png" height="200">
-	<img src="./imgs/hc_2.png" height="200">
-	<img src="./imgs/hc_3.png" height="200">
+	<img src="./imgs/hc_1.png" height="250">
+	<img src="./imgs/hc_2.png" height="250">
+	<img src="./imgs/hc_3.png" height="250">
 </div>
 
 ## Project 6: Random Number Generator
