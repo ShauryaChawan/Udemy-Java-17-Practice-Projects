@@ -36,6 +36,7 @@ public class weight_converter extends javax.swing.JFrame {
         jLabel3 = new javax.swing.JLabel();
         lbl_converted_weight = new javax.swing.JLabel();
         lbl_weight_unit = new javax.swing.JLabel();
+        jButton1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -78,6 +79,13 @@ public class weight_converter extends javax.swing.JFrame {
         lbl_weight_unit.setFont(new java.awt.Font("Segoe UI", 3, 20)); // NOI18N
         lbl_weight_unit.setText("??");
 
+        jButton1.setText("Clear");
+        jButton1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton1ActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
@@ -104,7 +112,10 @@ public class weight_converter extends javax.swing.JFrame {
                         .addGap(18, 18, 18)
                         .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(btn_convert, javax.swing.GroupLayout.DEFAULT_SIZE, 228, Short.MAX_VALUE)
-                            .addComponent(txt_weight))))
+                            .addComponent(txt_weight)))
+                    .addGroup(jPanel1Layout.createSequentialGroup()
+                        .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 98, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(0, 0, Short.MAX_VALUE)))
                 .addContainerGap())
         );
         jPanel1Layout.setVerticalGroup(
@@ -125,7 +136,9 @@ public class weight_converter extends javax.swing.JFrame {
                     .addComponent(jLabel3)
                     .addComponent(lbl_converted_weight)
                     .addComponent(lbl_weight_unit))
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addGap(18, 18, 18)
+                .addComponent(jButton1)
+                .addContainerGap(15, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -156,6 +169,10 @@ public class weight_converter extends javax.swing.JFrame {
             
         }
     }//GEN-LAST:event_btn_convertActionPerformed
+
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+        
+    }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -196,6 +213,7 @@ public class weight_converter extends javax.swing.JFrame {
     private javax.swing.JButton btn_convert;
     private javax.swing.JComboBox<String> cb_in;
     private javax.swing.JComboBox<String> cb_out;
+    private javax.swing.JButton jButton1;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
