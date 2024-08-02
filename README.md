@@ -6,7 +6,7 @@
 - [Project 2: Digital Clock](#project-2-digital-clock)
 - [Project 3: Weight Converter](#project-3-weight-converter)
 - [Project 4: Temperature Converter](#project-4-temperature-converter)
-- [Project 5: Height Converter](#project-5-height-converter)
+- [Project 5: Height Converter ✅](#project-5-height-converter-)
 - [Project 6: Random Number Generator](#project-6-random-number-generator)
 - [Project 7: BMI Calculator Tool](#project-7-bmi-calculator-tool)
 - [Project 8: Percentage Calculator](#project-8-percentage-calculator)
@@ -25,7 +25,12 @@
 ## Project 2: Digital Clock
 ## Project 3: Weight Converter
 ## Project 4: Temperature Converter
-## Project 5: Height Converter 
+## Project 5: Height Converter ✅
+
+![](./imgs/hc_1.png)
+![](./imgs/hc_2.png)
+![](./imgs/hc_3.png)
+
 ## Project 6: Random Number Generator
 ## Project 7: BMI Calculator Tool
 ## Project 8: Percentage Calculator
